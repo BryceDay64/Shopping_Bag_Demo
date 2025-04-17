@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Gait and VR Study Search/Welcome.md",
-                "bFile": "Gait and VR Study Search/Welcome.md",
+                "aFile": "Gait and VR Study Search/.obsidian/workspace.json",
+                "bFile": "Gait and VR Study Search/.obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Welcome"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -178,7 +178,7 @@
   },
   "active": "62a110121a4129b9",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "create a link.md",
+    "Welcome.md"
   ]
 }
