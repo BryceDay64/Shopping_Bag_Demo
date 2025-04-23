@@ -13,4 +13,8 @@
 - temporal strategy to reduce asymmetry. Introducing a phase lag in the slow limb (solid line) can also result in a more symmetric stepping pattern.
 - it would also predict that asymmetries in  optic flow would modify the walking pattern when both treadmill belts move at the same speed; however, this was not what we observed.
 
+**Components**
+[[Asymmetric Belt Speed]]
+[[Asymmetric Optic Flow]]
+
 **References:**

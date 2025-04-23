@@ -20,4 +20,6 @@ This study suggests that older adults do not have a greater dependence on vision
 - "There was no statistically significant difference between younger and older adults in visual dependency as measured by the rod and frame task, F(1, 31) = 0.68, p = .42."
 - "Post hoc analyses revealed that a significant effect of Vision was observed in the older adults, F(2, 32) = 17.97, p = .0001, but not in the younger adults, F(2, 30) = 2.66, p = .09. Post hoc analyses of the vision effect in the older adults showed that walking speed in BF was significantly lower than that in EO (p = .0001) and VR (p = .006). Significant main effects for Vision, F(2, 62) = 12.38, p = .0001, and Group, F(1, 31) = 4.42, p = .05, were observed for stride frequency. Older adults had a significantly higher stride frequency (1.10 Hz) than the younger adults (1.03 Hz). Post hoc analyses revealed that stride frequency in BF (1.14 Hz) was significantly higher than that in EO (1.01 Hz, p = .001) and VR (1.05 Hz, p = .001)."
 
+**Components**
+
 **References:**

@@ -18,8 +18,14 @@
 	- "understand the properties of VR technology that create meaningful task constraints such as sensory conflict and error augmentation"
 	- "to be successful, immersion in an environment that produces presence and embodiment is necessary if the user is to respond in a realistic way"
 
-
-
+Components:
+- [[Visual Gait Synchronization]]
+- [[Tactile Gait Synchronization]]
+- [[Auditory Gait Synchronization]]
+- [[Avatars]]
 References:
 [[Effects of Optic Flow Speed and Lateral Flow Asymmetry on Locomotion in Younger and Older Adults-A Virtual Reality Study]]
 [[A novel optic flow pattern speeds split-belt locomotor adaptation]]
+[[Follow the leader-Visual Control of Speed in Pedestrian Following]]
+[[Modulating the Gait of a Real-Time Self-Avatar to Induce Changes in Stride Length During Treadmill Walking]]
+[[Visual influence on human locomotion]]
