@@ -1,0 +1,26 @@
+#Article 
+**Abstract:**
+	The population is getting older. Rehabilitation can play an essential strategic role to counteract impairments and disability which characterize the elderly. Correct rehabilitative programmes have to be approached on the functional limitation and residual abilities of elders. Leading a more active lifestyle and regular physical activity including aerobic and resistance exercises have been demonstrated to improve cardiovascular, respiratory, musculoskeletal, and cognitive wellbeing in older adults. Occupational therapy, prescription of assistive devices, environmental, and home living adaptation, and family or caregiver educational training represent an essential rehabilitative strategy in elders developing disability. In these people, falls are dramatic events that lead to hospitalization, functional decline, decreased social activity, and poor quality of life. Rehabilitation incorporating balance, gait, and strength training exercise interventions can reduce the risk of falls. Frailty refers to a condition characterized by a gradual physiologic decline in multiple body systems, loss of physiologic reserve, and increased vulnerability to disease and death. Several therapeutic strategies have been proposed including exercises, multi-component training and approaches, all aimed at decreasing the need for nursing home placement, hospitalization, and reducing dependence and death. In these subjects, geriatric comprehensive assessment and the multi-disciplinary team have recently been demonstrated to be more effective than usual care.
+**Notes:**
+	This article helped me to wrap my head more around the problems that elderly individuals face. The article provides the table below which outlines goals for areas of rehabilitation for elderly individuals. The article emphasizes the importance of frequent exercise in elderly individuals, specifically aerobic and resistance based exercises.
+	![[Pasted image 20250424111344.png]]
+
+**Highlights:**
+- "Leading a more active lifestyle and regular physical activity including aerobic and resistance exercises have been demonstrated to improve cardiovascular, respiratory, musculoskeletal, and cognitive wellbeing in older adults."
+- "falls are dramatic events that lead to hospitalization, functional decline, decreased social activity, and poor quality of life"
+- "The main goal of rehabilitative intervention in the elderly is to maintain independent mobility and activities of daily living (ADLs)."
+- "Since limitations and disability can be variable and complex, individualized multi-target rehabilitative interventions have be planned involving family and caregiver participation, particularly in frail older people."
+- "It contributes positively toward an individual’s healthy weight, muscle strength, immune system, and cardiovascular health. The benefits of physical activity include enhancement of the cardiovascular, respiratory, musculoskeletal, and endocrine function, and psychologic wellbeing"
+- "Older adults should perform regular moderate-intensity aerobic activity focused on muscle-strengthening, flexibility, and balance (9-10)."
+- "Falls may lead to decreased mobility, hospitalization, depression-related symptoms, functional decline, decreased social activity, and poor quality of life. They have various causes including gait and balance disturbance, muscle weakness, visual deficit, dizziness, cognitive impairments, psychoactive and multiple drug use, arthritis, diabetes mellitus, pain, and environmental hazards. Among these, the most frequent factors include impairment in balance-related physiologic systems (impaired vision, slow reaction time, and greater postural sway) and mobility limitation."
+- "Indeed, quick validated fall risk screening tools for elders are now available for community, hospital, and nursing and residential care settings. Clinical practice guidelines and screening algorithms have also been published to prevent and reduce the risks of fall in older people. Furthermore, efforts have been made to translate evidence into policy and practice."
+- "All older adults at risk of falling should be offered an exercise programme incorporating balance, gait, and strength training. Flexibility and endurance training should also be offered but not as sole components of the programme."
+- "Elder adults at low risk of falls should be encouraged to exercise regularly with a specific focus on balance training. On the other hand, frail older people or those with severe mobility limitation and cognitive impairment at high risk of falls, can also benefit from an exercise intervention, but consideration should be given to how these people are encouraged to exercise safely and effectively, because falls could increase with exercise"
+- "Generally, frailty refers to a condition characterized by a gradual physiologic decline in multiple body systems, by loss of function, loss of physiologic reserve, and increased vulnerability to disease and death"
+- "Weakness and fatigue are central to almost all definitions of frailty. Sarcopenia (loss of skeletal muscle mass) is probably a key component of these symptoms."
+- "A large number of papers have reported that frail elder people can benefit from regular physical activity including aerobic or endurance exercise training"
+
+
+**Components**
+
+**References:**
