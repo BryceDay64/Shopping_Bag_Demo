@@ -1,0 +1,2 @@
+From [[The Untapped Potential of Virtual Reality in Rehabilitation of Balance and Gait in Neurological Disorders]]
+"A measure of the subjective psychological response of a user experiencing that VR system."
