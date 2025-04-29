@@ -35,7 +35,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 				# This will loop through the new opencv frames
 				while True:
 					# TODO: Pull in the computer vision functionality here. (Bag_Detection_v1.py)
-					cv2.waitKey(1)
 
 					# Run this when object is found (keyboard interrupt for now)
 					if keyboard.is_pressed('a'):  # if object found
