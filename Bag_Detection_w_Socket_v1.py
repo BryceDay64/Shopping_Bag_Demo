@@ -219,6 +219,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
                                     # A list variable containing the x and y position of the centroid and the angle of the minor axis
                                     message = [cx, cy, e[2] - 90]
+                                    message = str(message[0]) + ' ' + str(message[1]) + ' ' + str(message[2])
 
                                     # This says blob detect is on for aesthetic purposes in the display below.
                                     blob_on = True
@@ -228,7 +229,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                                     # If used with the UR20 this will not be an issue
                                     # because the robot will not move and pick up the bag in one frame.
                                     action = False
-
+                                    break
                                 # If the current frame is not the same as the previous frame then make the current frame the
                                 # previous in preparation for the next frame.
                                 else:
@@ -244,21 +245,21 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                         cv2.imshow('frame', canvas)
 
                         # If the "q" key is pressed break and close.
-                        if cv2.waitKey(1) == ord('esc'):
+                        if cv2.waitKey(1) == ord('q'):
                             message = 'end'
                             break
                     '''
                     # Run this when object is found (keyboard interrupt for now)
                     if keyboard.is_pressed('a'):  # if object found
                         # This should be the info variable passed by Bag_Detection_v1.py,
-						# but was made a string for testing purposes.
-						message = "info"
+                        # but was made a string for testing purposes.
+                        message = "info"
                         break
 
-					# Run this to end the demo (will stay keyboard interrupt)
-					if keyboard.is_pressed('s'):  # if we want to stop the code
-						message = "end"
-						break
+                    # Run this to end the demo (will stay keyboard interrupt)
+                    if keyboard.is_pressed('s'):  # if we want to stop the code
+                        message = "end"
+                        break
                     '''
 
             # Sends message to UR20 (either the bag info or the end command)
