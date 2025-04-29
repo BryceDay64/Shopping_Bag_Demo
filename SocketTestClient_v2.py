@@ -1,7 +1,7 @@
 # this is the pi
 import socket
-import cv2
-import numpy as np
+import time
+
 
 HOST = "127.0.0.1"  # The server's hostname or IP address
 PORT = 65432  # The port used by the server
@@ -13,14 +13,19 @@ PORT = 65432  # The port used by the server
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.connect((HOST, PORT))
     while True:
-        message = input("enter message: ")
-        if message == "end":
-            break
+        print('ready')
+        message = "Send me info"
         s.sendall(str.encode(message, 'utf-8'))
+
         data = s.recv(1024)
-        print("Recieved " + data.decode())
 
-        key = cv2.waitKey(1)
+        if data.decode() == "end":
+            print('end')
+            break
 
-# cap.release()
-cv2.destroyAllWindows()
+        else:
+            info = data.decode().split()
+            info = [info[0], info[1], info[2]]
+            print(info)
+
+        time.sleep(2)
